@@ -1,0 +1,5 @@
+logs.log
+*.db
+myenv/
+.ipynb_checkpoints/
+push_model.sh
